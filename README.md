@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently learning languages like Java, Python and also making projects alongside.
-
+I'm a dedicated developer with a strong foundation in Python, C, and Java, and I'm presently honing my skills in Data Structures and Algorithms (DSA) using Java. With a background in HTML,and CSS, I'm excited to explore full-stack development to broaden my technical skills. I presently study at the Bangalore Institute of Technology in Bangalore and am originally from Haldwani, Uttarakhand. My career in technology is motivated by a passion to learn and create significant, scalable solutions.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kushagra_4647) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-verma-153477297/) 
